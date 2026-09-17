@@ -26,6 +26,7 @@ pnpm-debug.log*
 
 # Backups & workspace caches
 _voxi_backup/
+New folder/
 .vercel/
 
 # OS and Editor metadata
